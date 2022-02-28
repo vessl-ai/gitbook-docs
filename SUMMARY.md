@@ -1,0 +1,88 @@
+# Table of contents
+
+* [Welcome to VESSL Docs!](README.md)
+
+## GETTING STARTED
+
+* [Overview](getting-started/vessl-overview.md)
+* [Quickstart](getting-started/quickstart.md)
+
+## USER GUIDE
+
+* [Organization](user-guide/organization/README.md)
+  * [Create an Organization](user-guide/organization/create-an-organization.md)
+  * [Organization Settings](user-guide/organization/organization-settings/README.md)
+    * [Add Members](user-guide/organization/organization-settings/add-members.md)
+    * [Set Notifications](user-guide/organization/organization-settings/set-notifications.md)
+    * [Configure Clusters](user-guide/organization/organization-settings/configure-clusters.md)
+    * [Add Integrations](user-guide/organization/organization-settings/add-integrations.md)
+    * [Billing Information](user-guide/organization/organization-settings/billing-information.md)
+* [Project](user-guide/project/README.md)
+  * [Creating a Project](user-guide/project/creating-a-project.md)
+  * [Project Overview](user-guide/project/project-overview.md)
+  * [Project Repository & Project Dataset](user-guide/project/project-repository-and-project-dataset.md)
+* [Dataset](user-guide/dataset/README.md)
+  * [Adding New Datasets](user-guide/dataset/adding-new-datasets.md)
+  * [Managing Datasets](user-guide/dataset/managing-datasets.md)
+  * [Tips & Limitations](user-guide/dataset/tips-and-limitations.md)
+* [Experiment](user-guide/experiment/README.md)
+  * [Creating an Experiment](user-guide/experiment/creating-an-experiment.md)
+  * [Managing Experiments](user-guide/experiment/managing-experiments.md)
+  * [Experiment Results](user-guide/experiment/experiment-results.md)
+  * [Distributed Experiments](user-guide/experiment/distributed-experiments.md)
+  * [Local Experiments](user-guide/experiment/local-experiments.md)
+* [Sweep](user-guide/sweep/README.md)
+  * [Creating a Sweep](user-guide/sweep/creating-a-sweep.md)
+  * [Sweep Results](user-guide/sweep/sweep-results.md)
+* [Workspace](user-guide/workspace/README.md)
+  * [Creating a Workspace](user-guide/workspace/creating-a-workspace.md)
+  * [Exploring Workspaces](user-guide/workspace/exploring-workspaces.md)
+  * [SSH Connection](user-guide/workspace/ssh-connection.md)
+  * [Downloading / Attaching Datasets](user-guide/workspace/downloading-attaching-datasets.md)
+  * [Running a Server Application](user-guide/workspace/running-a-server-application.md)
+  * [Tips & Limitations](user-guide/workspace/tips-and-limitations.md)
+  * [Building Custom Images](user-guide/workspace/building-custom-images.md)
+* [Model Registry](user-guide/model-registry/README.md)
+  * [Creating a Model](user-guide/model-registry/creating-a-model.md)
+  * [Managing Models](user-guide/model-registry/managing-models.md)
+* [Commons](user-guide/commons/README.md)
+  * [Running Spot Instances](user-guide/commons/running-spot-instances.md)
+  * [Volume Mount](user-guide/commons/volume-mount.md)
+
+## API REFERENCE
+
+* [What is the VESSL CLI/SDK?](api-reference/what-is-the-vessl-cli-sdk.md)
+* [CLI](api-reference/cli/README.md)
+  * [Getting Started](api-reference/cli/getting-started.md)
+  * [vessl run](api-reference/cli/vessl-run.md)
+  * [vessl cluster](api-reference/cli/vessl-cluster.md)
+  * [vessl dataset](api-reference/cli/vessl-dataset.md)
+  * [vessl experiment](api-reference/cli/vessl-experiment.md)
+  * [vessl image](api-reference/cli/vessl-image.md)
+  * [vessl model](api-reference/cli/vessl-model.md)
+  * [vessl organization](api-reference/cli/vessl-organization.md)
+  * [vessl project](api-reference/cli/vessl-project.md)
+  * [vessl ssh-key](api-reference/cli/vessl-ssh-key.md)
+  * [vessl sweep](api-reference/cli/vessl-sweep.md)
+  * [vessl volume](api-reference/cli/vessl-volume.md)
+  * [vessl workspace](api-reference/cli/vessl-workspace.md)
+* [Python SDK](api-reference/python-sdk/README.md)
+  * [Keras](api-reference/python-sdk/keras/README.md)
+    * [ExperimentCallback](api-reference/python-sdk/keras/experimentcallback.md)
+  * [TensorBoard](api-reference/python-sdk/tensorboard.md)
+  * [vessl.init](api-reference/python-sdk/vessl.init.md)
+  * [vessl.hp.update](api-reference/python-sdk/vessl.hp.update.md)
+  * [vessl.log](api-reference/python-sdk/vessl.log/README.md)
+    * [vessl.Image](api-reference/python-sdk/vessl.log/vessl.image.md)
+    * [vessl.Audio](api-reference/python-sdk/vessl.log/vessl.audio.md)
+  * [vessl.progress](api-reference/python-sdk/vessl.progress.md)
+  * [vessl.upload](api-reference/python-sdk/vessl.upload.md)
+  * [vessl.finish](api-reference/python-sdk/vessl.finish.md)
+
+## TROUBLESHOOTING
+
+* [GitHub Issues](troubleshooting/github-issues.md)
+
+## VERSION HISTORY
+
+* [Release Notes](version-history/release-notes.md)
