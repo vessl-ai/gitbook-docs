@@ -3,7 +3,7 @@ Module vessl
 
 Sub-modules
 -----------
-* [vessl.cli](cli/index.md)
+* [vessl.cli](cli/README.md)
 * [vessl.dataset](dataset.md)
 * [vessl.experiment](experiment.md)
 * vessl.integration
