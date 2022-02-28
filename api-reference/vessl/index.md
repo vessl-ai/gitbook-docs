@@ -3,9 +3,9 @@ Module vessl
 
 Sub-modules
 -----------
-* vessl.cli
-* vessl.dataset
-* vessl.experiment
+* [vessl.cli](cli/index.md)
+* [vessl.dataset](dataset.md)
+* [vessl.experiment](experiment.md)
 * vessl.integration
 * vessl.internal
 * vessl.kernel_cluster
