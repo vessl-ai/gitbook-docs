@@ -48,10 +48,21 @@ Functions
 
     
 `read_dataset(dataset_name: str, **kwargs) ‑> openapi_client.models.response_dataset_info_detail.ResponseDatasetInfoDetail`
-:   Read dataset
+:   Reads a dataset from a default organization and project.
     
-    Keyword args:
+    Args:
+        `dataset_name` (str): a dataset name
+    
+    Kwargs:
         organization_name (str): override default organization
+    
+    Returns:
+        A detail information of dataset.
+    
+    Examples:
+    ```python
+    dataset = read_dataset(dataset_name="foo")
+    ```
 
     
 `read_dataset_version(dataset_id: int, dataset_version_hash: str) ‑> openapi_client.models.response_dataset_version_info.ResponseDatasetVersionInfo`
