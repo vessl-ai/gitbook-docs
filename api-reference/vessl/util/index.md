@@ -12,8 +12,9 @@ Sub-modules
 * vessl.util.exception
 * vessl.util.file_object
 * vessl.util.file_transmission
-* vessl.util.git
-* vessl.util.git_repo
+* vessl.util.git_local
+* vessl.util.git_local_repo
+* vessl.util.git_remote
 * vessl.util.image
 * vessl.util.logger
 * vessl.util.random
