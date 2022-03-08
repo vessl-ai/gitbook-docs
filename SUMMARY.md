@@ -53,8 +53,10 @@
 
 * [What is the VESSL CLI/SDK?](api-reference/what-is-the-vessl-cli-sdk.md)
 * [Docs](api-reference/vessl/README.md)
+  * [CLI](api-reference/vessl/cli/README.md)
+    * [CLI Dataset](api-reference/vessl/cli/dataset.md)
+  * [Integration](api-reference/vessl/integration/README.md)
   * [Dataset API](api-reference/vessl/dataset.md)
-  * [Experiment API](api-reference/vessl/experiment.md)
 * [CLI](api-reference/cli/README.md)
   * [Getting Started](api-reference/cli/getting-started.md)
   * [vessl run](api-reference/cli/vessl-run.md)

@@ -58,6 +58,10 @@ Functions
         project_name (str): override default project
 
     
+`list_github_code_refs(workload_id: int) ‑> List[openapi_client.models.response_git_hub_code_ref.ResponseGitHubCodeRef]`
+:   
+
+    
 `read_experiment(experiment_name_or_number: str, **kwargs) ‑> openapi_client.models.response_experiment_info.ResponseExperimentInfo`
 :   Read experiment
     
