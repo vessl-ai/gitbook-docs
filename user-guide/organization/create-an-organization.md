@@ -1,4 +1,4 @@
-# Create an Organization
+# Creating an Organization
 
 Once you signed up, you can create or add an organization by clicking **ADD ORGANIZATION** on the organizations page. You can always come back to this page by clicking the VESSL logo on the top left corner.&#x20;
 

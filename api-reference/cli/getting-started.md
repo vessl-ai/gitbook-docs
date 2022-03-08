@@ -26,6 +26,8 @@ vessl configure [OPTIONS]
 
 ### **Change the default organization**
 
+Set the default organization so that you do not enter the organization every time you execute the `vessl` command.
+
 ```
 vessl configure organization [ORGANIZATION]
 ```
@@ -35,6 +37,8 @@ vessl configure organization [ORGANIZATION]
 | `ORGANIZATION` | New default organization |
 
 ### **Change the default project**
+
+Set the default organization so that you do not enter the project every time you execute the `vessl` command.
 
 ```
 vessl configure project [PROJECT]

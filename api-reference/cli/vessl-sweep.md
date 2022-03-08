@@ -78,3 +78,13 @@ vessl sweep terminate NAME
 | Argument | Description |
 | -------- | ----------- |
 | `NAME`   | sweep name  |
+
+### Find the best sweep experiment&#x20;
+
+```
+vessl sweep best-experiment
+```
+
+| Argument | Description |
+| -------- | ----------- |
+| `NAME`   | sweep name  |
