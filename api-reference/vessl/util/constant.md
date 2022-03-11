@@ -1,2 +1,0 @@
-Module vessl.util.constant
-==========================
