@@ -2,9 +2,9 @@
 
 When you click the **NEW DATASET** under **DATASET** page, you will be asked to add new dataset either from local or external data source. You have three data provider options: Vessl, Amazon Simple Storage Service, and Google Cloud Storage.
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (95).png>)
 
-![](<../../.gitbook/assets/image (106).png>)
+![](<../../.gitbook/assets/image (109).png>)
 
 {% tabs %}
 {% tab title="VESSL" %}
@@ -43,7 +43,7 @@ VESSL supports 3 types of local mounts
 * HostPath
 * FlexVolume (e.g. [CIFS mount](tips-and-limitations.md#cifs-mount))
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 
 

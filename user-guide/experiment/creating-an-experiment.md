@@ -12,7 +12,7 @@ You can run your experiment on either VESSL's managed cluster or your custom clu
 {% tab title="VESSL's Managed Cluster" %}
 Once you selected VESSL's managed cluster, you can view a list of available resources under the dropdown menu.&#x20;
 
-![](<../../.gitbook/assets/image (206).png>)
+![](<../../.gitbook/assets/image (218).png>)
 
 You also have an option to use spot instances.
 
@@ -30,7 +30,7 @@ Check out the full list of resource types and corresponding prices:
 {% tab title="Custom Cluster" %}
 Your custom cluster can be either on-premise or on-cloud. For on-premise clusters, you can specify the processor type and resource requirements. The experiment will be assigned automatically to an available node based on the input resource requirements.&#x20;
 
-![](<../../.gitbook/assets/image (113).png>)
+![](<../../.gitbook/assets/image (116).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +38,7 @@ Your custom cluster can be either on-premise or on-cloud. For on-premise cluster
 
 You have an option to use multi-node distributed training. The default option is single-node training.&#x20;
 
-![](<../../.gitbook/assets/image (198).png>)
+![](<../../.gitbook/assets/image (209).png>)
 
 ### Image (Required) <a href="#image" id="image"></a>
 
@@ -48,7 +48,7 @@ Select the Docker image that the experiment container will use. You can either u
 {% tab title="Managed Image" %}
 Managed images are pre-pulled images provided by VESSL. You can find the available image tags at VESSL's [Amazon ECR Public Gallery](https://gallery.ecr.aws/vessl/kernels)_._&#x20;
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/image (119).png>)
 {% endtab %}
 
 {% tab title="Custom Image" %}
@@ -58,7 +58,7 @@ You can pull your own custom images from either [Docker Hub](https://hub.docker.
 
 To pull images from the public Docker registry, simply pass the image URL. The example below demonstrates pulling the official TensorFlow development GPU image from Docker Hub.&#x20;
 
-![](<../../.gitbook/assets/image (197).png>)
+![](<../../.gitbook/assets/image (208).png>)
 
 #### Private Images
 
@@ -70,7 +70,7 @@ To pull images from the private Docker registry, you should first integrate your
 
 Then, check the private image checkbox, fill in the image URL, and select the credential.
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../.gitbook/assets/image (161).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -78,13 +78,13 @@ Then, check the private image checkbox, fill in the image URL, and select the cr
 
 Specify the start command in the experiment container. Write a running script with command-line arguments just as you are using a terminal. You can put multiple commands by using the `&&` command or a new line separation.&#x20;
 
-![](<../../.gitbook/assets/image (124).png>)
+![](<../../.gitbook/assets/image (127).png>)
 
 ### Volume (Optional)
 
 You can mount the project, dataset, and files to the experiment container.
 
-![](<../../.gitbook/assets/image (209).png>)
+![](<../../.gitbook/assets/image (221).png>)
 
 Learn more about volume mount on the following page:
 
@@ -96,7 +96,7 @@ Learn more about volume mount on the following page:
 
 You can set hyperparameters as key-value pairs. The given hyperparameters are automatically added to the container as environment variables with the given key and value. A typical experiment will include hyperparameters like `learning_rate` and `optimizer`.&#x20;
 
-![](<../../.gitbook/assets/image (166).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 You can also use them at runtime by appending them to the start command as follows.
 
@@ -110,4 +110,4 @@ python main.py  \
 
 Checking the termination protection option puts experiments in idle once it completes running, so you to access the container of a finished experiment.&#x20;
 
-![](<../../.gitbook/assets/image (203).png>)
+![](<../../.gitbook/assets/image (215).png>)

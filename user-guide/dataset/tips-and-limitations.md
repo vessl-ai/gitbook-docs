@@ -8,7 +8,7 @@ VESSL providers FlexVolume storage type to support CIFS mount.
 2. Create `secret.yml` for CIFS mount.
 3. Fill the options in the create dataset dialog.
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (190).png>)
 
 
 

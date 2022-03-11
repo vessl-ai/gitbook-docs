@@ -2,7 +2,7 @@
 
 You can configure your organization settings under **SETTINGS** tab.&#x20;
 
-![](<../../../.gitbook/assets/image (153).png>)
+![](<../../../.gitbook/assets/image (160).png>)
 
 Under settings, you can
 

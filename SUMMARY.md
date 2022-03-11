@@ -6,9 +6,9 @@
 
 * [Overview](getting-started/vessl-overview.md)
 * [Quickstart](getting-started/quickstart.md)
-* [End-to-end programmatic workflows](getting-started/end-to-end-programmatic-workflows/README.md)
-  * [CLI workflow](getting-started/end-to-end-programmatic-workflows/cli-workflow.md)
-  * [SDK workflow](getting-started/end-to-end-programmatic-workflows/sdk-workflow.md)
+* [End-to-end Guides](getting-started/end-to-end-guides/README.md)
+  * [CLI-driven Workflow](getting-started/end-to-end-guides/cli-driven-workflow.md)
+  * [SDK-driven Workflow](getting-started/end-to-end-guides/sdk-driven-workflow.md)
 
 ## USER GUIDE
 
@@ -24,6 +24,14 @@
   * [Creating a Project](user-guide/project/creating-a-project.md)
   * [Project Overview](user-guide/project/project-overview.md)
   * [Project Repository & Project Dataset](user-guide/project/project-repository-and-project-dataset.md)
+* [Cluster](user-guide/cluster/README.md)
+  * [Connecting Clusters to VESSL](user-guide/cluster/connecting-clusters-to-vessl/README.md)
+    * [VESSL-managed Cluster](user-guide/cluster/connecting-clusters-to-vessl/vessl-managed-cluster.md)
+    * [User-managed cluster (Custom cluster)](user-guide/cluster/connecting-clusters-to-vessl/user-managed-cluster-custom-cluster.md)
+  * [Managing Cluster Resources](user-guide/cluster/managing-cluster-resources/README.md)
+    * [Cluster Nodes](user-guide/cluster/managing-cluster-resources/cluster-nodes.md)
+    * [Cluster Workloads](user-guide/cluster/managing-cluster-resources/cluster-workloads.md)
+    * [Cluster Resource Specs](user-guide/cluster/managing-cluster-resources/cluster-resource-specs.md)
 * [Dataset](user-guide/dataset/README.md)
   * [Adding New Datasets](user-guide/dataset/adding-new-datasets.md)
   * [Managing Datasets](user-guide/dataset/managing-datasets.md)
@@ -34,6 +42,9 @@
   * [Experiment Results](user-guide/experiment/experiment-results.md)
   * [Distributed Experiments](user-guide/experiment/distributed-experiments.md)
   * [Local Experiments](user-guide/experiment/local-experiments.md)
+* [Model Registry](user-guide/model-registry/README.md)
+  * [Creating a Model](user-guide/model-registry/creating-a-model.md)
+  * [Managing Models](user-guide/model-registry/managing-models.md)
 * [Sweep](user-guide/sweep/README.md)
   * [Creating a Sweep](user-guide/sweep/creating-a-sweep.md)
   * [Sweep Results](user-guide/sweep/sweep-results.md)
@@ -45,9 +56,6 @@
   * [Running a Server Application](user-guide/workspace/running-a-server-application.md)
   * [Tips & Limitations](user-guide/workspace/tips-and-limitations.md)
   * [Building Custom Images](user-guide/workspace/building-custom-images.md)
-* [Model Registry](user-guide/model-registry/README.md)
-  * [Creating a Model](user-guide/model-registry/creating-a-model.md)
-  * [Managing Models](user-guide/model-registry/managing-models.md)
 * [Commons](user-guide/commons/README.md)
   * [Running Spot Instances](user-guide/commons/running-spot-instances.md)
   * [Volume Mount](user-guide/commons/volume-mount.md)
@@ -85,7 +93,3 @@
 ## TROUBLESHOOTING
 
 * [GitHub Issues](troubleshooting/github-issues.md)
-
-## VERSION HISTORY
-
-* [Release Notes](version-history/release-notes.md)

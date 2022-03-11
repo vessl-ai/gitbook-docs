@@ -14,5 +14,5 @@ When you enter each model page, you can see the metadata and files tabs. Under a
 
 You can create an experiment with a model volume mounted on the model page. It can be used to evaluate the model. The generated experiments are added to the model's related experiments.
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../.gitbook/assets/image (166).png>)
 

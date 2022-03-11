@@ -4,7 +4,7 @@
 
 `vessl run` is a simple command for running an experiment in the cluster. You can simple add `vessl run` in front of your command.
 
-![](<../../.gitbook/assets/carbon (1).png>)
+![](<../../.gitbook/assets/carbon (1) (1).png>)
 
 This will inquiry information to run on the cluster and create an experiment with
 

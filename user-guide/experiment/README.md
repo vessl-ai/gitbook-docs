@@ -6,7 +6,7 @@ An **experiment** is a single machine learning run in a project with a specific 
 
 You can find a list of experiments under each project page. You delve into the details of the experiment by clicking the name of the experiment.&#x20;
 
-![](<../../.gitbook/assets/image (156).png>)
+![](<../../.gitbook/assets/image (163).png>)
 
 ### Managing Experiments with VESSL Client
 

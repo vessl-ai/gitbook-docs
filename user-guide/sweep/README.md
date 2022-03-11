@@ -6,7 +6,7 @@ You can use **Sweep** to optimize hyperparameters and tune your models. Sweep ru
 
 You can find the list of Sweeps under **SWEEPS** tab of each project page. You can examine the details of each Sweep by clicking the name of the Sweep.
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 ### Managing Sweep with VESSL Client
 

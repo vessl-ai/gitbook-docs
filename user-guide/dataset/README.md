@@ -6,7 +6,7 @@ VESSL **dataset** is a collection of data sourced from local disks or cloud vend
 
 Click **DATASETS** tab to view your organization's datasets.&#x20;
 
-![](<../../.gitbook/assets/image (218).png>)
+![](<../../.gitbook/assets/image (231).png>)
 
 ### Managing Dataset with VESSL Client
 

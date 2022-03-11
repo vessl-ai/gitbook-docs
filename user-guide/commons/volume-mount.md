@@ -12,7 +12,7 @@ When you create experiments or services on a VESSL cluster, you can find the vol
 | /output         | Artifacts                                | A fixed immutable empty directory |
 | /work           | Project                                  | A working directory               |
 
-![](<../../.gitbook/assets/image (224).png>)
+![](<../../.gitbook/assets/image (237).png>)
 
 ### 2. Volume mount to a custom cluster
 
@@ -24,7 +24,7 @@ You can start experiments or services on a custom cluster by clicking **ADD NFS*
 | Server Path | NFS directory absolute path to mount           | /volume1/sharing |
 | Mount Path  | Mount destination path to experiment container | /input           |
 
-![](<../../.gitbook/assets/image (211).png>)
+![](<../../.gitbook/assets/image (223).png>)
 
 {% hint style="warning" %}
 You can only mount NFS volume to **custom clusters.**

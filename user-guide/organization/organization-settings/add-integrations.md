@@ -28,4 +28,4 @@ To integrate your Docker account, click **ADD INTEGRATION** and fill in your Doc
 
 To integrate your GitHub account, click ADD INTEGRATION. Grant repository access to VESSL App in the repository access section and click save in GitHub.
 
-![](<../../../.gitbook/assets/image (208).png>)
+![](<../../../.gitbook/assets/image (220).png>)

@@ -18,5 +18,5 @@ You can download the datasets uploaded on VESSL with `vessl dataset download` co
 
 You can attach NFS/Host machine volume when you create/edit your workspace.
 
-![](<../../.gitbook/assets/image (163).png>)
+![](<../../.gitbook/assets/image (171).png>)
 

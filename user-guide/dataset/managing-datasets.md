@@ -2,7 +2,7 @@
 
 Under Datasets, you can view the file tree of your dataset. Here, you can also upload file, create folder.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../../.gitbook/assets/image (98).png>)
 
 ### Dataset Versioning (Enterprise only)
 

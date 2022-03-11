@@ -4,7 +4,7 @@ Once you run a workspace, you can fully leverage the development environment usi
 
 ![](<../../.gitbook/assets/image (75).png>)
 
-![](<../../.gitbook/assets/image (187).png>)
+![](<../../.gitbook/assets/image (198).png>)
 
 ### 1. Create SSH Key
 

@@ -28,7 +28,7 @@ VESSL provides a python package to install conda based on condacolab. For more i
 
 In VESSL,  `/home/vessl` **is the only persistent directory**. Other directories reset eveytime you restart a workspace. If you need libraries or packages that should be installed outside  `/home/vessl`, fill the `init` script with the install commands. You can also build your own docker image on top of [VESSL managed docker images](tips-and-limitations.md#undefined).&#x20;
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 VESSL provides disk persistency in two ways:
 

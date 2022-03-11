@@ -4,7 +4,7 @@
 
 To **create** a **workspace**, you need to select few options including workspace name, resource, image and few advanced settings.
 
-![](<../../.gitbook/assets/image (155).png>)
+![](<../../.gitbook/assets/image (162).png>)
 
 {% hint style="info" %}
 Put the asterisk mark(\*) on the required option
@@ -32,7 +32,7 @@ For the **Managed Image**, you can simply select such an option, then the image 
 
 
 
-![](<../../.gitbook/assets/image (216).png>)
+![](<../../.gitbook/assets/image (229).png>)
 {% endtab %}
 
 {% tab title="Custom Image" %}
@@ -73,7 +73,7 @@ Specify the max runtime (default: 24 hours) for this workspace. After max runtim
 
 (For Enterprise Plan) Organization admin can limit the max runtime that users can input.
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../.gitbook/assets/image (168).png>)
 
 #### Disk
 
@@ -95,5 +95,5 @@ You can customize **port** settings. By default, 8888 (jupyter) and 22 (ssh) are
 
 You can attach your NFS/Host machine volume.
 
-![](<../../.gitbook/assets/image (170).png>)
+![](<../../.gitbook/assets/image (178).png>)
 

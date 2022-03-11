@@ -22,7 +22,7 @@ You can also access an activated SSH under **QUICKTOOLS**. Here&#x20;
 
 Here, the Linux username is vessl.&#x20;
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../../.gitbook/assets/image (124).png>)
 
 ### Metadata
 

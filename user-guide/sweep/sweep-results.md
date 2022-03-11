@@ -4,7 +4,7 @@
 
 Under **MONITORING**, you can monitor your Sweeps on a rich dashboard.
 
-![](<../../.gitbook/assets/image (175).png>)
+![](<../../.gitbook/assets/image (185).png>)
 
 #### Metrics
 
@@ -22,11 +22,11 @@ Under **System Metrics**, you can monitor the resource consumption of each exper
 
 Under **LOGS** tab, you can find logging records with experiment status and metrics.&#x20;
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../.gitbook/assets/image (227).png>)
 
 ### Metadata
 
 Under **METADATA**, you can find the configuration for the current Sweep and runtime.
 
-![](<../../.gitbook/assets/image (219).png>)
+![](<../../.gitbook/assets/image (232).png>)
 

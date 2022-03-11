@@ -26,7 +26,7 @@ vessl workspace create [OPTIONS] NAME
 | `--gpu-limit`                      | Number of GPU cores (for custom cluster only)                                                                                                              |
 | `-i`, `--image-url`                | <p>Kernel docker image URL</p><p>ex. <code>vessl/kernels:py36.full-cpu</code></p>                                                                          |
 | `--max-hours`                      | Maximum number of hours to run workspace. Defaults to 24.                                                                                                  |
-| `--dataset` (_multiple_)           | <p>Dataset mounts in the form of <code>[mount_path] [dataset_name]</code></p><p>ex. <code>--dataset /input mnist</code></p>                                |
+| `--dataset` (_multiple_)           | <p>Dataset mounts in the form of <code>[mount_path]:[dataset_name]</code></p><p>ex. <code>--dataset /input:mnist</code></p>                                |
 | `--upload-local-file` _(multiple)_ | <p>Upload local file. Format: [local_path] or [local_path]:[remote_path].</p><p>ex. <code>--upload-local-file my-project:/home/vessl/my-project</code></p> |
 | `--root-volume-size`               | Root volume size (defaults to `100Gi`)                                                                                                                     |
 | `-p`, `--port` _(multiple)_        | Format: \[expose\_type] \[port] \[name], ex. `-p 'tcp 22 ssh'`. Jupyter and SSH ports exist by default.                                                    |

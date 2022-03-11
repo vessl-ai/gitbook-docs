@@ -6,7 +6,7 @@ A **model registry** is a centralized space for managing model versions. Model g
 
 To view and manage model repositories and a list of versioned models, click **MODELS** on the web console.
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (111).png>)
 
 ### Managing model with VESSL Client
 

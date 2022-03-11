@@ -6,7 +6,7 @@ description: Dashboard for payment information
 
 You can check your payment information and credit balance on the billing page.&#x20;
 
-![](<../../../.gitbook/assets/image (210).png>)
+![](<../../../.gitbook/assets/image (222).png>)
 
 ### How is usage calculated?
 

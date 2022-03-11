@@ -2,7 +2,7 @@
 
 Under the experiments page, you can view the details of each experiment such as experiment status and logs. Here, you can also terminate or reproduce experiments.&#x20;
 
-![](<../../.gitbook/assets/image (192).png>)
+![](<../../.gitbook/assets/image (203).png>)
 
 ### Experiment Status
 
@@ -38,7 +38,7 @@ Opening a new SSH terminal allows you to navigate the experiment container to se
 
 One of the great features of VESSL is that all the experiments can be reproduced. VESSL keeps track of all experiment configurations including the dataset snapshot and source code version. and allows you to reproduce any experiment with just a single click. You can reproduce experiments either on the Web Console or via VESSL CLI. &#x20;
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (153).png>)
 
 ### Terminating Experiments
 

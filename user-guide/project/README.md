@@ -6,7 +6,7 @@ Machine learning projects require both code and datasets. VESSL **project** is a
 
 You can find the Project tab under the organization menu. Click the tab to view the full list of ongoing projects.&#x20;
 
-![](<../../.gitbook/assets/image (202).png>)
+![](<../../.gitbook/assets/image (214).png>)
 
 ### Managing Projects with VESSL Client
 

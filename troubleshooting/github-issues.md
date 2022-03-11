@@ -12,7 +12,7 @@ If you're having trouble connecting to GitHub, try troubleshooting on GitHub, no
 
 Some users who share your organization may find that clicking **New Project** button on the VESSL Web Console redirects to GiHub Apps. In this case, you can update the **Repository access** and activate **Save** button on the GitHub Apps page.&#x20;
 
-![](<../.gitbook/assets/image (145).png>)
+![](<../.gitbook/assets/image (152).png>)
 
 ### Invalid GitHub Repository Error
 
@@ -21,9 +21,9 @@ The invalid GitHub repository error usually occurs when the repository does not 
 * Personal Settings -> Applications -> Authorized GitHub Apps, or
 * Organization settings -> Installed GitHub Apps
 
-![](<../.gitbook/assets/image (89).png>)
+![](<../.gitbook/assets/image (90).png>)
 
-![](<../.gitbook/assets/image (133).png>)
+![](<../.gitbook/assets/image (136).png>)
 
 ### Unauthorized GitHub Error
 
@@ -32,9 +32,9 @@ The unauthorized GitHub Error may occur when the GitHub authorization expires. R
 1. Uninstall the VESSL GitHub App on your GitHub account under Settings -> Applications.
 2. Click **New Project** on the organization page to reinstall the VESSL GitHub App.
 
-![](<../.gitbook/assets/image (87).png>)
+![](<../.gitbook/assets/image (88).png>)
 
-![](<../.gitbook/assets/image (125).png>)
+![](<../.gitbook/assets/image (128).png>)
 
 ### GitHub Connection Error
 

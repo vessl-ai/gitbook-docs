@@ -12,11 +12,11 @@ Specify the objective metric that you want to optimize. You can set either to ma
 
 {% tabs %}
 {% tab title="Maximize val_accuracy" %}
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (86).png>)
 {% endtab %}
 
 {% tab title="Minimize val_loss" %}
-![](<../../.gitbook/assets/image (160).png>)
+![](<../../.gitbook/assets/image (167).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -32,7 +32,7 @@ Specify the following parameters with a positive integer:
 Noted that both **Parallel experiment count** and **Max failed experiment count** should be less than or equal to **Max experiment count**.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 ### Parameters
 
@@ -53,13 +53,13 @@ Parameters are set as **hyperparameters** of the experiment. [See example code](
 * **Range**: You can choose between search space and list options. For a categorical type, only a list option is available.&#x20;
 * **Value**: The input form of the value is determined by the range type. For a search space, a continuous space is defined with min, max, and step, and for a list option, a search space is defined with discrete values.
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (101).png>)
 
 ### Early Stopping (Optional)
 
 You can set early stopping to prevent overfitting on the training dataset. It supports the median algorithm which takes two input values, `min_experiment_required` and `start_step`. VESSL examines the metric value for each step after `start_step` and compares it to the median value of the completed experiment to decide whether to trigger early stopping.&#x20;
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../.gitbook/assets/image (100).png>)
 
 ### Runtime
 
@@ -71,4 +71,4 @@ Configuring the runtime option is similar to creating an experiment:
 
 You can retrieve the configuration of prior experiments by clicking **Configure from Prior Experiments**.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (132).png>)

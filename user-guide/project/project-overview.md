@@ -7,7 +7,7 @@
 * **Starred Experiments**: Star and keep track of meaningful experiments.&#x20;
 * **Project Notes**: Make a note of important information about your project and share it with your teammates – similar to README.md of Git codebase.&#x20;
 
-![](<../../.gitbook/assets/image (148).png>)
+![](<../../.gitbook/assets/image (155).png>)
 
 ## Key Metrics
 
@@ -15,16 +15,16 @@ VESSL AI automatically marks metrics of best-performing experiments as key metri
 
 To add or remove Key Metrics
 
-1. Click the settings icon(![](<../../.gitbook/assets/image (119).png>)) on top of the Key Metrics card.
+1. Click the settings icon(![](<../../.gitbook/assets/image (122).png>)) on top of the Key Metrics card.
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (94).png>)
 
 2\. Select **up to 4 metrics** and choose whether your goal is to minimize or maximize the target value.&#x20;
 
 * If you select **Minimize**, an experiment with the smallest target value will be updated to the key metric charts.
 * If you select **Maximize**, an experiment with the greatest target value will be updated to the key metric chart.&#x20;
 
-&#x20;![](<../../.gitbook/assets/image (110).png>)
+&#x20;![](<../../.gitbook/assets/image (113).png>)
 
 ## Sample Media
 
@@ -36,13 +36,13 @@ For more information about logging media during your experiment, refer to [`vess
 
 To see the media file, select an experiment and specify the media type using the dropdown menu on the upper right corner of Sample Media card.&#x20;
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../.gitbook/assets/image (137).png>)
 
 ## Starred Experiment
 
 You can mark important experiments as **Starred Experiments** to keep track of meaningful achievements in the project. Starred Experiments displayed with the tags and key metrics.
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../.gitbook/assets/image (105).png>)
 
 To star or unstar experiments
 
@@ -50,11 +50,11 @@ To star or unstar experiments
 2. Select experiments
 3. Click 'Star' or 'Unstar' on the dropdown menu.&#x20;
 
-![](<../../.gitbook/assets/image (226).png>)
+![](<../../.gitbook/assets/image (239).png>)
 
 You can also star or unstar experiments on the experiment summary page.&#x20;
 
-&#x20;![](<../../.gitbook/assets/image (135).png>)
+&#x20;![](<../../.gitbook/assets/image (138).png>)
 
 
 
@@ -62,8 +62,8 @@ You can also star or unstar experiments on the experiment summary page.&#x20;
 
 **Project Notes** is a place for noting and sharing important information about the project together with your team. It works like README.md of your Git codebase.
 
-![](<../../.gitbook/assets/image (177).png>)
+![](<../../.gitbook/assets/image (187).png>)
 
-To modify project note, click the settings icon(![](<../../.gitbook/assets/image (119).png>)) on top of Project Notes card. You will be given a markdown editor to update your notes.&#x20;
+To modify project note, click the settings icon(![](<../../.gitbook/assets/image (122).png>)) on top of Project Notes card. You will be given a markdown editor to update your notes.&#x20;
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (180).png>)
